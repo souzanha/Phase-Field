@@ -1,5 +1,5 @@
 # Phase-Field
-Easy PDEs in open-source FEM software
+Easy PDEs explained in open-source FEM software
 
 Nernst-Planck-Poisson in PRISMS-PF
 
